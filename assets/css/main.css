@@ -1,0 +1,43 @@
+/*
+
+Kirby Starterkit
+
+Author: Bastian Allgeier / Sascha Lack
+URL:    http://getkirby.com
+Email:  support@getkirby.com
+
+*/
+
+#logo_img {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  z-index: 5;
+}
+
+/* Source Sans Pro
+-------------------------------------------------- */
+
+
+
+/* Reset
+-------------------------------------------------- */
+.card {
+  padding-left: 15px !important;
+  border-left: solid 5px black !important; 
+}
+.left {
+  width:25%;
+  display: inline-block;
+}
+.right {
+  width:70%;
+  float: right;
+  text-align: left;
+  display: inline-block;
+  padding-left: 15px !important;
+}
+.reveal p {
+  font-size: 0.7em;
+}
+

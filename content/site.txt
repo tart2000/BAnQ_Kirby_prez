@@ -1,0 +1,21 @@
+Title: Réunion d'orientation
+
+----
+
+Author: Arthur Schmitt
+
+----
+
+Description: 
+
+----
+
+Keywords: Kirby,CMS,file-based
+
+----
+
+Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+
+----
+
+Ladate: 6 juin 2016

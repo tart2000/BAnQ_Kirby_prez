@@ -1,0 +1,13 @@
+Title: Jeu et découverte
+
+----
+
+Labtype: Fun lab
+
+----
+
+Missionex: Utiliser le jeu comme point d'entrée pour découvrir et apprendre
+
+----
+
+Text: Créer un espace (gratuit) de détente qui offre des expériences amusantes à travers lesquelles on peut apprendre. Arcade, LAN, jeux vidéos, jeux de société, etc.
