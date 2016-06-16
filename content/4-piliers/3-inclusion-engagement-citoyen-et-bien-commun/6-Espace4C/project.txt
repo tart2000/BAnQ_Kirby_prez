@@ -1,0 +1,52 @@
+Title: Espace 4C 
+
+----
+
+En: 3
+
+----
+
+Typologie: Tiers-lieu
+
+----
+
+Mission: Créativité / Collaboration / Culture / Citoyenneté 
+
+----
+
+Objectifs: • Développer les solidarités et lutter contre les inégalités numériques, • Favoriser le développement des liens sociaux à Plescop, • Valoriser l'économie collaborative et l'intelligence collective, • Échanger les savoirs / savoir faire / savoir être, • Favoriser «l'empowerment», c'est à dire la capacité individuelle à agir, • Donner un contenu concret au concept d'éducation populaire, • Contribuer au développement durable, • Valoriser les initiatives ouvertes & libres (les projets seront proposés par le 4C sous licence libre), • Agir pour faciliter le développement des projets sur le territoire plescopais.
+
+----
+
+Jeunes: - ouvert à tous les publics
+
+----
+
+Description: Nouvel espace en développement dans les Champs Libres Espace d'expérimentation avec accompagnement de projets particulièrement dans les domaines numérique, ou analogique
+
+----
+
+Ou: Rennes, France
+
+----
+
+Contact: Samuel Bausson
+
+----
+
+Moyens: • Un accès (Très) Haut Débit à Internet est un préalable indispensable : idéalement par Ethernet, avec en complément 1 borne WiFi sécurisé. • Un espace serveur est également nécessaire, pour l'hébergement du site web, l'organisation des documentations, la mise à disposition des infos, le partage des documents... • 2-3 ordinateurs recyclés / réparés, avec OS libre (de type GNU Linux Mint...), • 5 ordinateurs à monter soi-même (dans le cadre d'un projet) sous Raspberry Pi • 1 imprimante 3D + bobines • 10 cartes de prototypage Arduino / Genuino pour différents ateliers, • 2 Kits de découverte de l'électronique / objets connectés de marque LittleBits • Petits matériels électroniques (écrans, capteurs, moteurs, LEDS, composants divers, câbles...) • Outils pour montages électroniques (tournevis de précision, matériel de mesure, fer à souder...) • 1 vidéo-projecteur
+
+----
+
+Facteurs: - implication des utilisateurs (porté par les utilisateurs) - association dédiée - bootstraping total
+
+----
+
+Web: rien pour l'instant 
+
+----
+
+Theurl: 
+
+----
+

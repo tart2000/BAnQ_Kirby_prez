@@ -1,0 +1,52 @@
+Title: FabLab @CSMB
+
+----
+
+En: 5
+
+----
+
+Typologie: Fablabs à l'école 
+
+----
+
+Mission: Promouvoir la science et à stimuler l’intérêt des élèves envers les nouvelles technologies
+
+----
+
+Objectifs: Appliquer les notions théorique à des projets pratiques d’innovation. Dans le futur : tester des pédagogies expérimentales, adapter les programmes d’apprentissage basés sur le principe de la différenciation, utiliser les technologies numériques et valoriser l’apprentissage par les pairs.
+
+----
+
+Jeunes: Oui
+
+----
+
+Description: Le Fab Lab CSMB permet de travailler sur les compétences techniques (liées à la conception et à la finalité du produit fabriqué), numériques (programmation), personnelles (communication et capacité d’entreprendre à travers la réussite d’un projet), sociales (la collaboration entre les élèves est essentielle) et créatives (conception et design), tant pour les élèves que pour le personnel enseignant, notamment en valorisant l’apprentissage par les pairs.
+
+----
+
+Ou: Montréal 
+
+----
+
+Contact: Matthieu Dubreuil 
+
+----
+
+Moyens: - 7 fablabs dans des écoles (dont un mobile) 
+
+----
+
+Facteurs: - fablab mobile (en résidence quelques mois dans une école) - aspect expérimental  - attention au bottleneck (et donc à la formation) 
+
+----
+
+Web: Site projets 
+
+----
+
+Theurl: http://fablabcsmb.ca/
+
+----
+

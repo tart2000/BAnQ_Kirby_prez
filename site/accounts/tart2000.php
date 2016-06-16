@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - agentivite
-  - medialab
-  - mission
-  - piliers
-  - piliers/experimentation-et-mancipation-par-le-faire-diy-diwo-dit
+  - fablab
+  - questions
+  - questions-2-2
+  - piliers/jeu-et-decouverte
+  - piliers/production-artistique-production-media-et-crativit

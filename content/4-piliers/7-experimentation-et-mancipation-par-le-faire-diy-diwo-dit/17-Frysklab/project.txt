@@ -1,0 +1,52 @@
+Title: Frysklab
+
+----
+
+En: 7
+
+----
+
+Typologie: Fablab mobile 
+
+----
+
+Mission: donner accès à ceux qui sont des territoires isolés (ruralité) 
+
+----
+
+Objectifs: We intend to (re)vitalize children’s enthousiasm for technology, but more importantly the 21st century skills that are mandatory for being empowered in the (near) future: entrepeneurship, information sharing, collaboration, problem solving and creativity.
+
+----
+
+Jeunes: En particulier (axe éducation)
+
+----
+
+Description: FryskLab is a mobile FabLab, developed by Bibliotheekservice Fryslân. It is the first officially library-powered FabLab in Europe. FryskLab creates an healthy interest in technology and maker skills, hereby stimulating digital literacy. Users of the lab will be able to use tools and skills to design and remix their personal environment and share these with others.
+
+----
+
+Ou: Pays-Bas
+
+----
+
+Contact: Jeroen de Boer
+
+----
+
+Moyens: - un camion tout équipé avec des machines de fablab et une équipe de gens sur-motivés
+
+----
+
+Facteurs: - aller vers ceux qui en ont besoin  - la plateforme 'maker edcation' avec des exemples d'activités  - commencer petit / faire avec ce qu'on a 
+
+----
+
+Web: Site simple
+
+----
+
+Theurl: http://www.frysklab.nl/
+
+----
+

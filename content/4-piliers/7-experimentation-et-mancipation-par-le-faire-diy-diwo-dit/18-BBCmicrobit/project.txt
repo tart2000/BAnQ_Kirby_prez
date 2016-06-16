@@ -1,0 +1,52 @@
+Title: BBC micro:bit
+
+----
+
+En: 7
+
+----
+
+Typologie: Plateforme programmable 
+
+----
+
+Mission: Get creative, get connected, get coding
+
+----
+
+Objectifs: Intéresser et former les jeunes générations aux nouvelles technologies. 
+
+----
+
+Jeunes: à fond. 
+
+----
+
+Description: Projet lancé par la BBC au UK.  You can use your BBC micro:bit for all sorts of cool creations, from robots to musical instruments – the possibilities are endless. The micro:bit is a handheld, fully programmable computer being given free to every Year 7 or equivalent child across the UK. 
+
+----
+
+Ou: UK 
+
+----
+
+Contact: 
+
+----
+
+Moyens: - BBC + écoles  - partenariats avec des entrerpises (Microsoft, Intel, etc.) 
+
+----
+
+Facteurs: - créer du hardware spécifique ! Ambitieux et impressionnant  - partenaires techniques impliqués dès le début
+
+----
+
+Web: Super bien. Avec possibilité de coder en ligne, d'accéder à de la documentation etc. 
+
+----
+
+Theurl: https://www.microbit.co.uk
+
+----
+

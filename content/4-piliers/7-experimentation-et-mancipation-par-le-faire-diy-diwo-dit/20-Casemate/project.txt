@@ -1,0 +1,52 @@
+Title: Casemate
+
+----
+
+En: 7
+
+----
+
+Typologie: FabLab et CCSTI
+
+----
+
+Mission: Et si la culture numérique favorisait un meilleur partage des cultures scientifique, technique et industrielle ?
+
+----
+
+Objectifs: Un CCSTI est une structure ayant pour mission de favoriser les échanges entre la communauté scientifique et le public. Cette mission s'inscrit dans une démarche de partage des savoirs, de citoyenneté active, permettant à chacun d'aborder les nouveaux enjeux liés à l'accroissement des connaissances. Dans ce contexte, le CCSTI s'attache tout particulièrement à la mise en évidence des implications et des conséquences de cette évolution sur l'environnement du citoyen. Par les actions qu'il met en place, le CCSTI suscite l'émergence d'une prise de conscience individuelle, au profit d'un avenir collectif, en améliorant la connaissance de la science et de ses enjeux par les citoyens. À ce titre, le CCSTI poursuit une approche pluridisciplinaire et transversale de la notion de science et de technique et engage des démarches de partenariat et de mise en œuvre permettant d'impliquer une multitude de publics, diversifiés dans leurs origines et leurs implantations géographiques.
+
+----
+
+Jeunes: Entre autres. Activités spécifiques 
+
+----
+
+Description: La Casemate est un centre de culture scientifique (CCSTI) fondé en 1979 à l’initiative de représentants des universités et centres de recherche locaux, et collectivités locales. Sa mission principale consiste à diffuser et promouvoir la culture scientifique auprès de tous les publics. Le CCSTI de Grenoble est la première association du genre créée en France. Depuis, un réseau d’une quarantaine de CCSTI s’est constitué. Chacun de ces centres de sciences continuent, sur leur territoire, à écrire l’histoire de la culture scientifique, technique et industrielle en France. Depuis sa création, l’association est hébergée dans un site protégé du patrimoine culturel local : Les Casemates. 
+
+----
+
+Ou: Grenoble, France 
+
+----
+
+Contact: Laurent Chicoineau
+
+----
+
+Moyens: - un fablab équipé - des salles d'exposition et une équipe de médiateurs scientifiques  - une partie living lab  - des résidences / des stages / des événements  - 18 personnes dans l'équipe + CA
+
+----
+
+Facteurs: - expositions (c'est une CCSTI après tout)  - développement d'outils spécifiques open source (fabmanager) mais avec une option 'payante'  - actions hors-site (MakerFaire Lyon etc.)  - publication de rapports  
+
+----
+
+Web: Site propre, complet et bien fait.  Site spécifiques pour projets spécifiques 
+
+----
+
+Theurl: http://lacasemate.fr/
+
+----
+

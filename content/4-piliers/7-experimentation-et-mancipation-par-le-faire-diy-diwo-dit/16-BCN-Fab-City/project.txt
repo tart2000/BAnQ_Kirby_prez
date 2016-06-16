@@ -1,0 +1,52 @@
+Title: BCN Fab City
+
+----
+
+En: 7
+
+----
+
+Typologie: Réseau 
+
+----
+
+Mission: Locally productive Globally connected Cities
+
+----
+
+Objectifs: FAB City is a new urban model of transforming and shaping cities that shifts how they source and use materials from ‘Products In Trash Out’ (PITO) to ‘Data In Data Out’ (DIDO). This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code).
+
+----
+
+Jeunes: Entre autres
+
+----
+
+Description: The Fab City has been initiated by the Institute for Advanced Architecture of Catalonia, the MIT’s Center for Bits and Atoms and the Fab Foundation; it operates within the Fab Lab network, using it as a global infrastructure and knowledge source for the radical transformation on how we work, live and play in cities.
+
+----
+
+Ou: Barcelone etc. 
+
+----
+
+Contact: Tomas Diez
+
+----
+
+Moyens: - surtout des outils de mise en relation / discussion  - des conférences annuelles liées aux rencontres des fablabs 
+
+----
+
+Facteurs: - 'from fablabs to fabcities'  - 40 year roadmap - messages clairs pour s'impliquer 
+
+----
+
+Web: Site + Github + hackpad 
+
+----
+
+Theurl: http://fab.city/
+
+----
+

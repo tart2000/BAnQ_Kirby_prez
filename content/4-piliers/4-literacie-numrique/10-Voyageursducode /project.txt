@@ -1,0 +1,52 @@
+Title: Voyageurs du code 
+
+----
+
+En: 4
+
+----
+
+Typologie: Animateurs d'ateliers
+
+----
+
+Mission: Devenez acteur du numérique
+
+----
+
+Objectifs: La maîtrise du numérique et des langages de programmation informatique est un enjeu central aujourd'hui pour que nos enfants ne soient pas des consommateurs digitaux mais deviennent des citoyens du numérique éclairés et créatifs.
+
+----
+
+Jeunes: Oui
+
+----
+
+Description: Les Voyageurs du Code animent des ateliers d'initiation et des formations à la programmation informatique et aux enjeux du numérique pour tous les âges, tous les niveaux et tous les goûts. Monté par Bibliothèques Sans Frontières
+
+----
+
+Ou: France
+
+----
+
+Contact: 
+
+----
+
+Moyens: - ateliers  - plateforme de mise en réseau  - 54 clubs en France 
+
+----
+
+Facteurs: - développement d'outils d'initiation - aller vers les publics vulnérables - formations qualifiantes  - formation de formateurs  - réplicabilité / réseau ouvert
+
+----
+
+Web: Site avec méthode détaillée et fiches téléchargeables pour commencer  Plateforme dédiée 
+
+----
+
+Theurl: http://voyageursducode.fr/
+
+----
+

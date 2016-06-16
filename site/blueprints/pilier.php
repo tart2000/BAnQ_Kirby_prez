@@ -15,6 +15,9 @@ fields:
   missionex:
     label: Mission example
     type: textarea
+  activityex:
+    label: Exemples d'activités 
+    type: text
   text:
     label: Text
     type:  textarea

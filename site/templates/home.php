@@ -32,12 +32,16 @@
 			        	<section id="<?php echo $p->uid() ?>">
 			        		<section>
 				        		<h2><?php e($p->num()!='',$p->num().'-') ?><?php echo $p->title() ?></h2>
-				        		<strong>(<?php echo $p->labtype() ?>)</strong>
+				        		<i><?php echo $p->labtype() ?> ?</i>
 				        		<?php echo $p->text()->kirbytext() ?>
 			        		</section>
 			        		<section>
 				        		<i>Exemple de mission :</i></br>
 				        		<i>"<?php echo $p->missionex() ?>"</i>
+				        	</section>
+				        	<section>
+				        		<i>Exemples d'activités :</i></br>
+				        		<p><?php echo $p->activityex() ?></p>
 				        	</section>
 				        	<!-- liste des projets si il y en a -->
 				        	<?php if ($p->hasChildren()) : ?>
@@ -59,12 +63,10 @@
 	    	<?php endforeach ?>
 
 	    	
-	        
-	        
-
         	<!-- page de fin -->
         	<section>
         		<h1>Merci</h1>
+        		<a href="<?php echo $site->url() ?>/?print-pdf">Print PDF</a>
         	</section>
 		    
 	    </div>

@@ -8,6 +8,8 @@
 	</div>
 	<div class="right">
 		<h2><?php echo $p->title() ?></h2>
-		<?php echo $p->text()->kirbytext() ?>
+		<p><?php echo $p->typologie() ?> - <?php echo $p->ou() ?></p>
+		<i>Mission : "<?php echo $p->mission() ?>"</i></br>
+		<!-- <?php echo $p->description()->kirbytext()->excerpt(100) ?> -->
 	</div>
 </section>
